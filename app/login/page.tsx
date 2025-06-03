@@ -81,7 +81,7 @@ export default function LoginPage() {
   };
 
   return (
-    <div>
+    <div className="w-full">
       <div className="container flex h-16 items-center">
         <Link
           href="/"
